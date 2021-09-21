@@ -42,7 +42,7 @@
             protocol: "*"
             destination_port_range: 8080
             access: Allow
-            priority: 105
+            priority: 110
             direction: Inbound 
 
     - name: Create a virtual network interface card
